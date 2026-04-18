@@ -1,0 +1,6 @@
+@MimiChat.Server_HostAddress = http://localhost:5106
+
+GET {{MimiChat.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
