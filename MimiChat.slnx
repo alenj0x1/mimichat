@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="MimiChat.Client/MimiChat.Client.csproj" Id="b39c5078-8b60-4ebc-87ce-1b700271ef52" />
+  <Project Path="src/MimiChat.Client/MimiChat.Client.csproj" Id="b39c5078-8b60-4ebc-87ce-1b700271ef52" />
   <Project Path="src/MimiChat.Server/MimiChat.Server.csproj" Id="458f664a-58e2-41ee-9a50-5baa46fdd7b3" />
 </Solution>
