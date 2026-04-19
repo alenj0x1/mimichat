@@ -6,7 +6,7 @@ namespace MimiChat.Server.Hubs
     {
         public void SendMessage(string user, string message)
         {
-
+            Clients.All.SendAsync("ReceiveMessage", user, message);
         }
     }
 }
